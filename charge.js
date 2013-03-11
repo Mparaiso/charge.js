@@ -3,6 +3,7 @@
  * license MIT
  * @module Charge
  * @author M.Paraiso
+ * @version 0.0.1
  * FR : Charge est un script qui simplifie le chargement de resources javascript.
  * Charge télécharge en série une série de resources telles que :
  * - des images via l'object image
