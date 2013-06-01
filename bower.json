@@ -1,0 +1,11 @@
+{
+  "name": "charge",
+  "version": "0.0.0",
+  "main": "charge.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    ".idea"
+  ]
+}
